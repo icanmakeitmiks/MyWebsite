@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+   <div>
+        <a href="../index.php"><img src="../img/th.jpg" style="position: absolute; top: 25px; right: 40px;max-width: 85px; padding: 13px; border-radius: 50%;"></a>
+    </div>
+    <div class="HD">
+    <h6 style="max-width: 10%; text-align: center; position:absolute; top: 95px; left:49px;">Gino P. Tiballa</h6>
+</div> 
+    <div>
+       <a href="../index.php">
+        <h1>IT 304-Web System and Technologies Compilation</h1>
+      </a>   
+</div>
+
+    <div>
+       <a href="../index.php"><img src="../img/IMG_20221121_165757_243.png" style="position: absolute; top: 25px; left: 40px; max-width: 60px; padding: 13px; border-radius: 90%;"></a></div>
+    
+</head>
+<body>
+  <div class="button-container">
+    <div class="dropdown">
+        <button class="dropbtn">
+            <a href="../index.php">HTML</a>
+        </button>
+        <div class="dropdown-content">
+            <a href="../html/Element.php">Basic Structure/Elements</a>
+            <a href="../html/attribute.php">Attributes</a>
+            <a href="../html/Heading.php">Headings</a>
+            <a href="../html/Paragraphs.php">Paragraphs</a>
+            <a href="../html/Style.php">Styles</a>
+            <a href="../html/Formatting.php">Formatting</a>
+            <a href="../html/Quotations.php">Quatations</a>
+            <a href="../html/Comments.php">Comments</a>
+            <a href="../html/Colors.php">Colors</a>
+            <a href="../html/HTML css.php">HTML CSS</a>
+            <a href="../html/HTML LINKS.php">HTML LINKS</a>
+            <a href="../html/Images.php">Images/Favicon/Page Title</a>
+            <a href="../html/Tables.php">Tables</a>
+            <a href="../html/Lists.php">Lists</a>
+            <a href="../html/htmlDiv.php">Div/Classes/ID</a>
+            <a href="../html/Block & Inline.php">Block & Inline</a>
+            <a href="../html/iframe.php">Iframe</a>
+            <a href="../html/HTML Layout.php">HTML Layout</a>
+            <a href="../html/HTML Responsive.php">HTML Responsive</a>
+            <a href="../html/HTML Form.php">HTML Forms</a>
+            <a href="../html/HTML API_s.php">HTML API'S</a>
+        </div>
+    </div>
+     <div class="dropdown">
+        <button class="dropbtn">
+           <a href="../CSS_html.php">CSS</a>
+       </button>                                                                    
+        <div class="dropdown-content">
+            <a href="css_topic1.php">Introduction/Syntax <br>/Selectors</a>
+            <a href="css_topic2.php">Comments/Colors<br>/Backgrounds</a>
+            <a href="css_topic3.php">Borders/Margins <br>/Paddings/Height & Width</a>
+            <a href="css_topic4.php">Box Model/Outline/Text/Fonts</a>
+            <a href="css_topic5.php">Icons/Links/Lists/Tables</a>
+            <a href="css_topic6.php">Display/Max-Width<br>/Position/Z-index</a>
+            <a href="css_topic7.php">Overflow/Float<br>/Inline-Block/Align</a>
+            <a href="css_topic8.php">Combinators/Pseudo-Element/Opacity</a>
+            <a href="css_topic9.php">Navigation Bar/Dropdowns/Image Gallery</a>
+            <a href="css_topic10.php">Image Sprites/CSS Form/CSS Counters</a>
+            <a href="css_topic11.php">CSS Web Layouts/!Important</a>
+        </div>
+    </div>
+    <div class="dropdown">
+        <button class="dropbtn">
+            <a href="../JavaScript.php">JavaScript</a>
+        </button>
+        <div class="dropdown-content">
+            <a href="../JavaScript.php">Introduction</a> 
+            <a href="../js/Where.php">Where to</a>
+            <a href="../js/Outputs-Statements.php">Outputs/Statements</a>
+            <a href="../js/syntax-comments.php">SYsntax/Comments</a>
+            <a href="../js/Function.php">Function</a>
+            <a href="../js/Parameter.php">Function Parameters</a>
+            <a href="../js/Objects.php">Objects</a>
+            <a href="../js/Event.php">Events</a>
+        </div>
+    </div>
+     <div class="dropdown">
+        <button class="dropbtn">
+           <a href="../jQuery.php">jQuery</a>
+        </button>
+        <div class="dropdown-content">
+            <a href="../jQuery.php">Introduction</a>
+            <a href="../jQuery/Get_Started.php">Get Started</a>
+            <a href="../jQuery/Syntax.php">Syntax</a>
+            <a href="../jQuery/Selectors.php">Selectors</a>
+            <a href="../jQuery/EventsJQuery_Effects.php">Events/JQuery Effects</a>
+            <a href="../jQuery/jQuery_HTML(GET & SET).php">jQuery HTML(GET & SET)</a>
+            <a href="../jQuery/jQuery_Ajax_Intro.php">jQuery AJAX intro</a>
+            <a href="../jQuery/jQuery_AJAX_Load.php">jQuery AJAX Load</a>
+            <a href="../jQuery/jQuery_GET_Post.php">jQuery GET/Post</a>
+        </div>
+    </div>
+    <div class="dropdown">
+        <button class="dropbtn">
+            <a href="../Booststrap5.php">Bootstrap 5</a>
+        </button>
+        <div class="dropdown-content">
+            <a href="../Booststrap5.php">Get Started/Containers</a>
+            <a href="../Bootstrap/Grid_Basics_color.php">Grid Basics/Colors</a>
+            <a href="../Bootstrap/Tables_Alerts.php">Tables/Alerts</a>
+            <a href="../Bootstrap/Button Groups_Badges.php">Button Groups/Badges</a>
+            <a href="../Bootstrap/List _Groups.php">List Groups</a>
+            <a href="../Bootstrap/Cards_Dropdown.php">Cards/Dropdowns</a>
+            <a href="../Bootstrap/Collapes.php">Collapes</a>
+            <a href="../Bootstrap/Nav_NavsBar.php">Nav/NavsBar</a>
+            <a href="../Bootstrap/Carousel.php">Carousel</a>
+            <a href="../Bootstrap/Modal_Tooltrip.php">Modal/Tooltrip</a>
+            <a href="../Bootstrap/Forms & Form Validation.php">Forms & Form Validation</a>
+        </div>
+    </div>
+    <div class="dropdown">
+        <button class="dropbtn">
+            <a href="../PHP.php">PHP</a>
+        </button>
+        <div class="dropdown-content">
+            <a href="../PHP.php">Syntax/Comments</a>
+            <a href="../PHP/Variables.php">Variables</a>
+            <a href="../PHP/Echo_Print.php">Echo/Print</a>
+            <a href="../PHP/Data_Types_String.php">Data Types/String</a>
+            <a href="../PHP/Numbers_Casting.php">Numbers/Casting</a>
+            <a href="../PHP/Math_Contants.php">Math/Constants</a>
+            <a href="../PHP/Collaps.php">Collapes</a>
+            <a href="../PHP/Operators.php">Operators</a>
+            <a href="../PHP/If_Else.php">If..Else..Elseif</a>
+            <a href="../PHP/Switch_Loops.php">Switch/Loops</a>
+            <a href="../PHP/Function_Arrays.php">Function/Arrays</a>
+            <a href="../PHP/Super_Global.php">Super Globals</a>
+            <a href="../PHP/Form Handling.php">Form Handling</a>
+            <a href="../PHP/Form_Validation.php">Form Validation</a>
+            <a href="../PHP/Form_Required.php">Form Required</a>
+            <a href="../PHP/Form_URL_E-mail.php">Form URL/E-mail</a>
+            <a href="../PHP/Form_Complete.php">Form Complete</a>
+            <a href="../PHP/Date_and_Time.php">Date and Time</a>
+            <a href="../PHP/Include_Cookiese_Sessions.php">Include/Cookiese/Sessions</a>
+        </div>
+    </div>
+    <div class="dropdown">
+        <button class="dropbtn">
+            <a href="MySql.php">MY SQL</a>
+        </button>
+        <div class="dropdown-content">
+            <a href="../MySql.php">Intro</a>
+            <a href="../MySql/RDBMS.php">RDBMS</a>
+            <a href="../MySql/SQL.php">SQL</a>
+            <a href="../MySql/Select.php">Select</a>
+            <a href="../MySql/AND.php">AND,or,not</a>
+            <a href="../MySql/Order.php">Order By</a>
+            <a href="../MySql/Insert_Update_Delete.php">Insert/Update/Delete(CRUD)</a>
+            <a href="../MySql/WildCards.php">Likes/WILDCARDS</a>
+        </div>
+    </div>
+  </div>
+  </div>
+  </div>
+
+  <div class="Syntax">
+    <div class="Syntax_heading">
+        <h1>Introduction/Syntax/Selectors</h1>
+    </div>
+    <div class="Syntax_content">
+        <strong>Introduction:</strong>
+        <p>What is CSS?
+            <br>
+        <li>CSS stands for Cascading Style Sheets</li>
+        <li>CSS describes how HTML elements are to be displayed on screen, paper, or in other media</li>
+        <li>CSS saves a lot of work. It can control the layout of multiple web pages all at once</li>
+        <li>External stylesheets are stored in CSS files</li>
+ </p>
+    <strong>CSS Syntax & Selector:</strong>
+    <br>
+    <p>A CSS rule consists of a selector and a declaration block.</p>
+    <img src="../img/Screenshot (5).png">
+    <p>The selector points to the HTML element you want to style.
+
+    The declaration block contains one or more declarations separated by semicolons.
+
+    Each declaration includes a CSS property name and a value, separated by a colon.
+
+    Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
+  </p>
+</div>
+
+      
+  </div>
+    <footer >
+    <div class="footer_36">
+        Copyright &copy; 2024.TIBALLA GINO - IT3A.All rights reserved!
+    </div>  
+  </footer>
+</body>
+</html>
